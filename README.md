@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 👋
 I'm Passionate about Software Engineering. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-sarker" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="sajan-sarker" /></a> </p>
 
 <p align="left"><a href="https://www.linkedin.com/in/sajan-sarker/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></p>
@@ -28,10 +28,10 @@ I'm Passionate about Software Engineering. Here you'll find a collection of proj
 I'm deeply interested in:
 
 - 💻 Software Development
-- 🤖 Artificial Intelligence and Machine Learning
+- 🤖 Artificial Intelligence
+- 🦾 Machine Learning
 - 🌐 Web Development
-- 📱 Mobile App Development
-- 📊 Data Science
+- ⚙️ Automation
 - 📚 Continuous Learning
 <!--
 ## Projects
@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajan-sarker&" alt="sajan-sarker" /></p>
 
+<p>  </p>
 ## Thank You
 
 Thank you for visiting my GitHub profile! Don't forget to star ⭐️ repositories you find interesting and fork 🍴 projects you'd like to contribute to.
