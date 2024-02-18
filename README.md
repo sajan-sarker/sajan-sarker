@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👋
 
 <!--I'm Sajan Sarker, a [Your Profession/Role] passionate about [Your Interests/Expertise]. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.-->
 <!--I'm Sajan Sarker, passionate about Software Engineering. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.-->
-<h4 align="left">I'm Passionate about Software Engineering. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.</h3>
+I'm Passionate about Software Engineering. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-sarker" /> </p>
 
