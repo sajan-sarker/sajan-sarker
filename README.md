@@ -11,7 +11,7 @@ Welcome to my GitHub profile! 👋
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="sajan-sarker" /></a> </p>
 
-<p align="left"><a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/sajan-sarker/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></p>
 
 ## About Me
 
