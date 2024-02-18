@@ -9,7 +9,7 @@ I'm Passionate about Software Engineering. Here you'll find a collection of proj
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-sarker" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="sajan-sarker" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="GitHub Trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker&column=7" alt="sajan-sarker" /></a> </p>
 
 <p align="left"><a href="https://www.linkedin.com/in/sajan-sarker/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></p>
 
