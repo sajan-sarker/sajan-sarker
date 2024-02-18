@@ -8,8 +8,8 @@ Welcome to my GitHub profile! 👋
 I'm Passionate about Software Engineering. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-sarker" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="sajan-sarker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="GitHub Trophy" /></a> </p>
 
 <p align="left"><a href="https://www.linkedin.com/in/sajan-sarker/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a></p>
 
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajan-sarker&show_icons=true&locale=en&layout=compact" alt="sajan-sarker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajan-sarker&show_icons=true&locale=en" alt="sajan-sarker" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sajan-sarker&show_icons=true&locale=en" alt="sajan-sarker" /></p>
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajan-sarker&" alt="sajan-sarker" /></p>
 
