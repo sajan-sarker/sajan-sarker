@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-I'm passionate about Artificial Intelligence. Here you'll find a collection of projects and contributions that reflect my journey in the world of technology and beyond.
+CSE graduate with a strong foundation in Software Engineering and Artificial Intelligence, with a growing interest in the intersection of AI and Cybersecurity. Passionate about building intelligent, secure systems and exploring applications of Machine Learning and Large Language Models (LLMs) in real-world scenarios.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-sarker" /> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-sarker" alt="sajan-sarker" /></a> </p>
@@ -15,8 +15,9 @@ I'm passionate about Artificial Intelligence. Here you'll find a collection of p
 - 🌍 Based in [Your Location]-->
 - 🌍 Lived in Dhaka, Bangladesh
 - 🎓 B.Sc. in Computer Science and Engineering Student at North South University.
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Natural Language Processing.**
-- 📫 Reach me on Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajansarker47@gmail.com" target="_blank"><b>sajansarker47@gmail.com</b></a>
+- 🌱 I’m currently learning **Large Language Models (LLM).**
+- 📫 Reach me on Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajan.k.sarker@gmail.com" target="_blank"><b>sajan.k.sarker@gmail.com</b></a>
+- 🌐 **Portfolio:** [Sajan Kumer Sarker](https://sajan-sarker.github.io/sajan-kumer-sarker/)
 
 ## Interests
 
@@ -26,6 +27,7 @@ I'm deeply interested in:
 - 🦾 Machine Learning
 - 🧠 Deep Learning
 - ⚛ Natural Language Processing
+- ⚛ Large Language Models
 - 📊 Data Science
 - 🛡️ Cyber Security
 - 💻 Software Development
