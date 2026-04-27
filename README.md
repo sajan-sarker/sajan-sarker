@@ -105,8 +105,6 @@ I'm deeply interested in:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajan-sarker&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajan-sarker&theme=onedark&no-frame=true&column=7)](https://github.com/sajan-sarker)
-
 </div>
 
 ---
