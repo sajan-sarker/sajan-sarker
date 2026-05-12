@@ -27,7 +27,7 @@ CSE graduate with a strong foundation in software engineering and artificial int
 - 🔬 Research interests: **LLM Architecture Design**, **AI for Cybersecurity**, **Ethical AI & AI Safety**
 - 🌱 Currently diving deep into **Cybersecurity**
 - 📫 Reach me at my [Gmail](mailto:sajan.k.sarker@gmail.com)
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1YgXtXgo5mCUfMRL5cwoluQ-BJu6JMlfi/view?usp=sharing)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1vQJFSmrPF9Bdy5svSPIJA8LKz19XtOmy/view?usp=sharing)
 - 🌐 Portfolio: [View My Portfolio](https://sajan-sarker.github.io/sajan-kumer-sarker/)
 
 ---
