@@ -13,7 +13,7 @@
     { "label": "LinkedIn",   "href": "https://linkedin.com/in/sajan-sarker",      "icon": "fab fa-linkedin" },
     { "label": "GitHub",     "href": "https://github.com/sajan-sarker",           "icon": "fab fa-github" },
     { "label": "TryHackMe",  "href": "https://tryhackme.com/p/sajan.k.sarker",   "icon": "fa-solid fa-shield-halved" },
-    { "label": "Resume",     "href": "https://drive.google.com/file/d/1vQJFSmrPF9Bdy5svSPIJA8LKz19XtOmy/view?usp=sharing", "icon": "fa-solid fa-file-lines" }
+    { "label": "Resume",     "href": "https://drive.google.com/file/d/1Fys6zU5F3zvgiXS-zVPERt_HW0EAjHfn/view?usp=sharing", "icon": "fa-solid fa-file-lines" }
   ],
   "heroButtons": [
     { "text": "View Projects", "href": "#projects", "variant": "primary" },
