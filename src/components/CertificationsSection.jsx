@@ -21,7 +21,7 @@ export default function CertificationsSection({ onImageClick }) {
                 src={cert.img}
                 alt={`${cert.title} certificate`}
                 className="certificate-img"
-                onClick={() => onImageClick(`${import.meta.env.BASE_URL}${cert.img.replace(/^\//, '')}`)}
+                onClick={() => onImageClick(cert.img)}
               />
               <h3 className="card-title">{cert.title}</h3>
               <a href={cert.credentialUrl} target="_blank" rel="noopener noreferrer">
