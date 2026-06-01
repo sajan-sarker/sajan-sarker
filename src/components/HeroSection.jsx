@@ -61,7 +61,7 @@ export default function HeroSection() {
           <div className="flex justify-center reveal">
             <div className="profile-wrap">
               <img
-                src="sajan-sarker/img/profile-illustration.png"
+                src="img/profile-illustration.png"
                 alt="Sajan Kumer Sarker profile"
                 className="profile-image"
               />
